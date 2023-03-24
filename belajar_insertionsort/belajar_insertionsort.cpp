@@ -27,5 +27,8 @@ void insertionsort() {
 	int j;
 	for (int i = 1; i < n; i++) {
 
-	}
+		temp = arr[i];
+
+		j = i - 1;
+
 }
