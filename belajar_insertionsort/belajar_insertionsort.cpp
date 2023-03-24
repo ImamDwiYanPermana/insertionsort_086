@@ -21,3 +21,7 @@ void input() {
 	}
 
 }
+
+void insertionsort() {
+
+}
