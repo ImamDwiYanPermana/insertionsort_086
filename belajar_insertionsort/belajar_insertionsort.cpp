@@ -9,5 +9,9 @@ void input() {
 		cout << "masukan jumlah data pada array";
 		cin >> n;
 	}
+	cout << endl;
+	cout << "=====================" << endl;
+	cout << "Masukan Element Array" << endl;
+	cout << "=====================" << endl;
 
 }
